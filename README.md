@@ -1,1 +1,1 @@
-namste-react 🚀
+Namste-react 🚀
